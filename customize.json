@@ -1,0 +1,23 @@
+{
+  "greeting": "Salut",
+  "name": "Scumpă Mamă",
+  "greetingText": "Alina Brînză :)",
+  "wishText": "Să fie toți cei dragi mereu alături de tine!",
+  "imagePath": "img/mama1.png",
+  "text1": "Este ziua ta de naștere!!!",
+  "textInChatBox": "Îți doresc un la mulți ani fericit!",
+  "sendButtonLabel": "Trimite",
+  "text2": "Sănătate",
+  "text3": "Multă Fericire",
+  "text4": "Și numai urări de ",
+  "text4Adjective": "Bine",
+  "text5Entry": "Deoarece,",
+  "text5Content": "Ești cea mai scumpă mămică din lume.",
+  "smiley": ":)",
+  "bigTextPart1": "DE",
+  "bigTextPart2": "CI",
+  "wishHeading": "La mulți ani!!!",
+  "outroText": "Aștept o părere despre felicitare.",
+  "replayText": "Sau da-i un click, ca să îl mai vezi odată",
+  "outroSmiley": ":)"
+}
